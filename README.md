@@ -1,1 +1,1 @@
-# top-project-etch-a-sketch
+In this TOP project, I’ll be creating a browser version of something between a sketchpad and an Etch-A-Sketch to work on my JS DOM manipulation skills.
